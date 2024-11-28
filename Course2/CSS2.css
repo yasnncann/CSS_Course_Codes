@@ -1,0 +1,45 @@
+div {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+}
+
+#_1 {
+    width: 20em;
+}
+
+#_2 {
+    width: 20ex;
+}
+
+#_3 {
+    width: 20px;
+}
+
+#_4 {
+    width: 20in;
+}
+
+#_5 {
+    width: 20mm;
+}
+
+#_6 {
+    width: 20em;
+}
+
+#_7 {
+    width: 20cm;
+}
+
+#_8 {
+    width: 20pt;
+}
+
+#_9 {
+    width: auto;
+}
+
+#_10 {
+    width: 100%;
+}

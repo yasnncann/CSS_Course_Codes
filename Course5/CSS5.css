@@ -1,0 +1,23 @@
+.grup {
+    display: block;
+    color: red;
+}
+
+img {
+    display: block;
+    height: 100px;
+}
+
+#_A {
+    display: none;
+}
+
+#_B {
+    visibility: hidden;
+}
+
+a:hover {
+    background-color: gray;
+    color: white;
+    text-transform: uppercase;
+}

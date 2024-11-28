@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+}
+
+#reklam {
+    border: 5px solid gray;
+    background-color: black;
+    padding: 5px;
+    color: gray;
+    text-align: center;
+}
+
+#kapat {
+    background-color: gray;
+    color: black;
+    float: right;
+}

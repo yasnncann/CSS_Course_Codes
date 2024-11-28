@@ -1,0 +1,24 @@
+p {
+    font-size: 20px;
+}
+
+.sabitimg {
+    position: fixed;
+    left: 300px;
+    top: 10px;
+    width: 200px;
+}
+
+.goreceliimg {
+    position: relative;
+    left: 100px;
+    top: 10px;
+    width: 200px;
+}
+
+.mutlakimg {
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    width: 200px;
+}

@@ -1,0 +1,36 @@
+#flexkutu {
+    width: auto;
+    height: auto;
+    display: flex;
+    border: 10px solid black;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+}
+
+#LOGO {
+    text-align: center;
+    border: 2px solid black;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.alt-kutular {
+    width: auto;
+    height: 150px;
+    margin: 10px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+
+a {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+body {
+    font-family: "Oswald", sans-serif;
+}
